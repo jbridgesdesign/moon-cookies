@@ -63,7 +63,7 @@ No build tools or dependencies required — just open it in a browser!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/moon-cookies.git
+   git clone https://github.com/jbridgesdesign/moon-cookies.git
    ```
 2. Open `index.html` in your browser.
 
